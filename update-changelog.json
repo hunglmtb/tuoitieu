@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.3.17",
+  "latestVersionCode": "37",
+  "url": "https://github.com/hunglmtb/tuoitieu",
+  "releaseNotes": [
+    "- Thêm tính năng nâng cấp phiên bản tự động",
+    "- Thêm tài khoản dùng thử",
+    "- Sửa lỗi"
+  ]
+}
