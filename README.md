@@ -6,4 +6,4 @@ Chúng tôi chỉ nhận và gửi tin nhắn đến số điện thoạ
 phí sms là theo nhà mạng và gói cước của bạn
 ngoài ra chúng tôi cần cấp phát quyền đọc danh bạ cho bạn tiện đăng ký
 Cảm ơn đã sử dụng giải pháp của chúng tôi
-Thân ái và quyết thắng
+Thân
