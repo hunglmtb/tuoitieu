@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.3.3",
-  "latestVersionCode": "43",
+  "latestVersion": "1.4.0",
+  "latestVersionCode": "50",
   "url": "https://github.com/hunglmtb/tuoitieu/raw/master/lazico.apk",
   "releaseNotes": [
-    "- Thêm tính năng nâng cấp phiên bản tự động",
-    "- Thêm tài khoản dùng thử",
-    "- Sửa lỗi"
+    "- Thêm chức năng cấu hình cổng, tên cổng",
+    "- Sắp xếp danh sách theo tên "
+    "- Sửa lỗi: thay sim vào nhiều thiết bị, ẩn nút gọi khi ở trang lịch biểu"
   ]
 }
