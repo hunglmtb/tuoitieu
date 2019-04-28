@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.4.2",
-  "latestVersionCode": "52",
+  "latestVersion": "1.4.4",
+  "latestVersionCode": "54",
   "url": "https://github.com/hunglmtb/tuoitieu/raw/master/lazico.apk",
   "releaseNotes": [
-    "- Tăng số cổng tối đa ev04 là 12",
-    "- Sửa lỗi ko nhận ở 1 số sim 84 ",
-    "- Cập nhật những lỗi nhỏ khác"
+    "- sửa lỗi hẹn giờ qua ngày",
+    "- sửa lỗi đăng ký lại thiết bị",
+    "- thêm hiển thị version"
   ]
 }
