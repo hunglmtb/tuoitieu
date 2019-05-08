@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.4.5",
-  "latestVersionCode": "55",
+  "latestVersion": "1.4.6",
+  "latestVersionCode": "56",
   "url": "https://github.com/hunglmtb/tuoitieu/raw/master/lazico.apk",
   "releaseNotes": [
-    "- sửa lỗi hẹn giờ qua ngày",
-    "- sửa lỗi đăng ký lại thiết bị",
-    "- version 1.4.5 55"
+    "- update giao diện, icons",
+    "- sửa lỗi nút back hay không có thiết bị",
+    "- thêm chức năng bảo hàng xóm"
   ]
 }
