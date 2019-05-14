@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.4.6",
-  "latestVersionCode": "56",
-  "url": "http://lazico.com/lazico_download.html",
+  "latestVersion": "1.4.8",
+  "latestVersionCode": "58",
+  "url": "http://lazico.com/tin-tuc/huong-dan-su-dung-app-dieu-khien-es01",
   "releaseNotes": [
-    "- update giao diện, icons",
+    "- thêm chức năng hiển thị lỗi",
     "- sửa lỗi nút back hay không có thiết bị",
-    "- thêm chức năng bảo hàng xóm"
+    "- không giới hạn xóa cổng"
   ]
 }
