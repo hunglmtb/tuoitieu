@@ -1,10 +1,11 @@
 {
-  "latestVersion": "1.4.8",
-  "latestVersionCode": "58",
+  "latestVersion": "1.4.9",
+  "latestVersionCode": "59",
   "url": "http://lazico.com/download.html",
   "releaseNotes": [
-    "- thêm chức năng hiển thị lỗi",
-    "- sửa lỗi nút back hay không có thiết bị",
-    "- không giới hạn xóa cổng"
+    "- Thêm chức năng hỏi người dùng gửi sms khi thao tác đầu tiên",
+    "- Cập nhật phần điền mã nạp tiền",
+    "- Cập nhật validate bật tắt lịch biểu",
+    "- Sửa lỗi giới hạn cổng đối với EV"
   ]
 }
