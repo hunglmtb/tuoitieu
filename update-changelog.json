@@ -1,11 +1,8 @@
 {
-  "latestVersion": "1.4.9",
-  "latestVersionCode": "59",
+  "latestVersion": "1.7.1",
+  "latestVersionCode": "71",
   "url": "http://lazico.com/download.html",
   "releaseNotes": [
-    "- Thêm chức năng hỏi người dùng gửi sms khi thao tác đầu tiên",
-    "- Cập nhật phần điền mã nạp tiền",
-    "- Cập nhật validate bật tắt lịch biểu",
-    "- Sửa lỗi giới hạn cổng đối với EV"
+    "- cập nhật màn hình khóa và vân tay"
   ]
 }
