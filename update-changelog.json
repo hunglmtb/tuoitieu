@@ -1,8 +1,10 @@
 {
-  "latestVersion": "1.7.1",
-  "latestVersionCode": "71",
+  "latestVersion": "1.7.2",
+  "latestVersionCode": "72",
   "url": "http://lazico.com/download.html",
   "releaseNotes": [
-    "- cập nhật màn hình khóa và vân tay"
+    "- hỖ trỢ EV02",
+    "- gom tin nhắn",
+    "- cập nhật giao diện"
   ]
 }
