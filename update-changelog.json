@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.7.2",
-  "latestVersionCode": "72",
+  "latestVersion": "1.7.3 (149)",
+  "latestVersionCode": "149",
   "url": "http://lazico.com/download.html",
   "releaseNotes": [
-    "- hỖ trỢ EV02",
-    "- gom tin nhắn",
+    "- hỗ trợ nhận nhiều tin nhắn",
     "- cập nhật giao diện"
   ]
 }
