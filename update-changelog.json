@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.7.3 (149)",
-  "latestVersionCode": "149",
-  "url": "http://lazico.com/download.html",
+  "latestVersion": "1.7.3 (157)",
+  "latestVersionCode": "157",
+  "url": "https://github.com/hunglmtb/tuoitieu/raw/master/lazico.apk",
   "releaseNotes": [
-    "- hỗ trợ nhận nhiều tin nhắn",
-    "- cập nhật giao diện"
+    "- Tải cập nhật trong ứng dụng",
+    "- cập nhật giao diện và sửa lỗi "
   ]
 }
