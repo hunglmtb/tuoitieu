@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.7.4 (163)",
-  "latestVersionCode": "163",
+  "latestVersion": "1.8.1.183",
+  "latestVersionCode": "183",
   "url": "https://github.com/hunglmtb/tuoitieu/raw/master/lazico.apk",
   "releaseNotes": [
-    "- Hỗ trợ 2 sim",
-    "- Thêm tính năng dùng thử ",
-    "- Sửa lỗi gửi nhiều sms trong lịch biểu "
+    "- Cải tiến lịch biểu",
+    "- Cập nhật giao diện ",
+    "- Hỗ trợ và fix lỗi trên EV04 "
   ]
 }
