@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.8.1.183",
-  "latestVersionCode": "183",
+  "latestVersion": "1.8.1.196",
+  "latestVersionCode": "196",
   "url": "https://github.com/hunglmtb/tuoitieu/raw/master/lazico.apk",
   "releaseNotes": [
-    "- Cải tiến lịch biểu",
-    "- Cập nhật giao diện ",
-    "- Hỗ trợ và fix lỗi trên EV04 "
+    "- Thêm thiết bị ES01S+",
+    "- Cập nhật giao diện",
+    "- Cải tiến và fix lỗi lịch biểu"
   ]
 }
