@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.8.1.196",
-  "latestVersionCode": "196",
+  "latestVersion": "1.8.1.197",
+  "latestVersionCode": "197",
   "url": "https://github.com/hunglmtb/tuoitieu/raw/master/lazico.apk",
   "releaseNotes": [
-    "- Thêm thiết bị ES01S+",
-    "- Cập nhật giao diện",
-    "- Cải tiến và fix lỗi lịch biểu"
+    "- Cho phép hẹn giờ qua ngày vơi thiết bị hỗ trợ lịch biểu không rút gọn",
+    "- Cập nhật giao diện: cho phép hiển thị thời gian kết thúc",
+    "- Cho phép nối 2 mốc gối đầu và fix lỗi lịch biểu"
   ]
 }
